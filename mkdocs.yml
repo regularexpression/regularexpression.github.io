@@ -1,0 +1,124 @@
+# Based on https://docs.jakefarrell.ie/homelab/info/
+
+site_name: Regex  
+site_url: https://mydomain.org/mysite
+site_description: My Docs & Info
+
+repo_name: regularexpression/regularexpression.github.io
+repo_url: https://github.com/regularexpression/regularexpression.github.io
+
+
+nav:
+  - Welcome: index.md
+  - Homelab:
+    - About: homelab/info.md
+    - Hardware:
+      - Minipc: homelab/hardware/minipc/info.md
+      - Router: homelab/hardware/router/info.md
+    - Proxmox: homelab/proxmox/info.md
+    - Virtual machines: homelab/vm/info.md
+    - LXC containers: 
+       - About: homelab/lxc/about.md
+       - Cockpit: homelab/lxc/cockpit.md
+       - Jellifin:
+         - About: homelab/lxc/jellyfin/about.md
+         - Metadata: homelab/lxc/jellyfin/metadata.md
+    - VPS: homelab/vps/about.md
+  - 3D Printer:
+    - About: 3dprinter/info.md
+    - Klipper: 3dprinter/klipper.md
+  - FPV: 
+    - About: fpv/info.md
+#    - Equipment: fpv/equipment.md
+#    - Setups: fpv/setups.md
+#    - HDZERO: fpv/hdzero.md
+  - Blog:
+    - blog/index.md
+
+
+  
+
+
+theme:
+  name: material
+  favicon: assets/logo.png
+  logo: assets/logo.png
+
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal #blue grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+#  language: en # (1)!
+
+  features:
+    - navigation.footer
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - content.code.copy
+
+# extra:
+#   alternate:
+#     - name: English
+#       link: /en/ # (1)!
+#       lang: en
+#     - name: Russian
+#       link: /ru/
+#       lang: ru
+
+plugins:
+  - search
+  - blog
+# https://ultrabug.github.io/mkdocs-static-i18n/
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: ru
+          name: Russian
+          build: true
+          nav_translations:
+            Welcome: Приветики
+            Home: Дом
+            Homelab: Сервак
+            3D Printer: 3D Принтер
+            FPV: ФэПэВэ
+            Blog: Блог
+#  - material-plausible
+
+markdown_extensions:
+# for code
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+# forimages
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
