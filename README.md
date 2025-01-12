@@ -1,6 +1,4 @@
 # regularexpression.github.io
-Here I'm trying to test myself as a blog writer.
-
 
 ## VSCode
 Ctrl+Shift+P
