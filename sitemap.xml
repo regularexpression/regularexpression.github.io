@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://mydomain.org/mysite/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/3dprinter/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/3dprinter/info/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/3dprinter/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/3dprinter/klipper/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/3dprinter/klipper/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/3dprinter/klipper/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/blog/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/blog/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/blog/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/fpv/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/fpv/info/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/fpv/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/info/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/hardware/minipc/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/hardware/minipc/info/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/hardware/minipc/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/hardware/router/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/hardware/router/info/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/hardware/router/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/lxc/about/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/lxc/about/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/lxc/about/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/lxc/cockpit/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/lxc/cockpit/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/lxc/cockpit/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/lxc/jellyfin/about/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/lxc/jellyfin/about/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/lxc/jellyfin/about/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/lxc/jellyfin/metadata/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/lxc/jellyfin/metadata/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/lxc/jellyfin/metadata/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/proxmox/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/proxmox/info/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/proxmox/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/vm/hass/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/vm/hass/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/vm/hass/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/vm/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/vm/info/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/vm/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/homelab/vps/about/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/vps/about/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/vps/about/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/3dprinter/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/3dprinter/info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/3dprinter/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/3dprinter/klipper/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/3dprinter/klipper/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/3dprinter/klipper/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/blog/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/blog/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/fpv/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/fpv/info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/fpv/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/hardware/minipc/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/hardware/minipc/info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/hardware/minipc/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/hardware/router/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/hardware/router/info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/hardware/router/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/lxc/about/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/lxc/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/lxc/about/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/lxc/cockpit/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/lxc/cockpit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/lxc/cockpit/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/lxc/jellyfin/about/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/lxc/jellyfin/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/lxc/jellyfin/about/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/lxc/jellyfin/metadata/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/lxc/jellyfin/metadata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/lxc/jellyfin/metadata/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/proxmox/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/proxmox/info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/proxmox/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/vm/hass/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/vm/hass/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/vm/hass/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/vm/info/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/vm/info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/vm/info/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/ru/homelab/vps/about/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://mydomain.org/mysite/ru/homelab/vps/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/homelab/vps/about/"/>
+    </url>
+</urlset>
